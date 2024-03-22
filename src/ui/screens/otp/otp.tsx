@@ -40,7 +40,7 @@ const Header = ({ goBack }: { goBack: () => void }) => {
         >
           You’ve Got A
         </Text>
-        <Text> Mail </Text>
+        <Text> rrMail</Text>
         <Text
           style={{
             color: "#007BFF",

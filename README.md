@@ -1,4 +1,7 @@
-## Available Scripts
+# EUREKA MOBILE TECHNICAL TEST
+## To run this project,  `npm install` and follow the following
+
+## Scripts
 
 In the project directory, you can run:
 

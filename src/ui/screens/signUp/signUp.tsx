@@ -84,7 +84,6 @@ const SignUpForm = ({ goToOtp }: { goToOtp: () => void }) => {
         handleSubmit,
         isSubmitting,
       }) => {
-        console.log(isSubmitting ? "isSUbmitting" : "not submitting");
         return (
           <View
             style={{
